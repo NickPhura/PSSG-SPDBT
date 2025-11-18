@@ -6,6 +6,7 @@ export enum ApplicationOriginTypeCode {
   Portal = 'Portal',
   Email = 'Email',
   WebForm = 'WebForm',
+  BcscWebForm = 'BCSCWebForm',
   Mail = 'Mail',
   Fax = 'Fax',
   GenericUpload = 'GenericUpload',

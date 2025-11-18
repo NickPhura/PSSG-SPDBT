@@ -217,6 +217,9 @@ namespace Spd.Manager.Shared
         [Description("Web Form")]
         WebForm,
 
+        [Description("BCSC - Web Form")]
+        BCSCWebForm,
+
         [Description("Mail")]
         Mail,
 
